@@ -20,8 +20,6 @@ mern-challenge/
 │   ├── routes/
 │   │   └── api.js
 │   ├── index.js
-│   ├── package.json
-│   └── .env
 │
 ├── client/
 │   ├── public/
@@ -36,10 +34,8 @@ mern-challenge/
 │   │   ├── index.js
 │   │   └── App.css
 │   ├── package.json
-│   └── .env
-│
+│── package.json
 ├── README.md
-└── .gitignore
 ```
 
 
